@@ -1,5 +1,8 @@
 Disclaimer
 ==========
+
+Fork这个项目的最初目的是为了学习一下大佬的免杀思路，毕竟是两三年前的项目了，所以把它原封不动的翻译过来，再增加上自己的一些加密操作，应该也可以达到免杀的效果。
+
 As usual, this code and tool should not be used for malicious purposes.
 
 Written by Vincent Yiu of MDSec Consulting's ActiveBreach team. Modification of code is allowed with credits to author.
