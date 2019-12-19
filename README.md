@@ -1,7 +1,7 @@
 Disclaimer
 ==========
 
-Fork这个项目的最初目的是为了学习一下大佬的免杀思路，毕竟是两三年前的项目了，所以把它原封不动的翻译过来，再增加上自己的一些加密操作，应该也可以达到免杀的效果。
+Fork这个项目的最初目的是为了学习一下大佬的免杀思路，毕竟是两三年前的项目了，所以把它原封不动的翻译过来，再增加上自己的一些加密操作，应该也可以达到免杀的效果。翻译内容详见rushb.py 调试的话使用debugrushb.py,因为在rushb.py中加了不少中文还打乱了结构,所以使用debugrushb.py来进行调试
 
 As usual, this code and tool should not be used for malicious purposes.
 
